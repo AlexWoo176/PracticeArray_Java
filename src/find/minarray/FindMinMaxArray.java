@@ -1,4 +1,4 @@
-package find.minmax.array;
+package find.minarray;
 
 import java.util.Scanner;
 
